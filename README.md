@@ -1,6 +1,6 @@
 # C4 DS Learning Repository
 
-Welcome to the C4 DS Learning Repository! This repository serves as a resource hub where you can find lecture slides, code demos, workshop slides, workshop demos, and a curated reading list.
+Welcome to the C4 DS Learning Repository! This repository serves as a resource hub where you can find lecture slides, code demos, workshop slides, workshop demos, presentation recordings, and a curated reading list.
 
 ## Contents
 
